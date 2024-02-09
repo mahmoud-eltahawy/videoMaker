@@ -12,8 +12,10 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@remotion/cli": "4.0.109",
+    "@types/react-syntax-highlighter": "^15.5.11",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-syntax-highlighter": "^15.5.0",
     "remotion": "4.0.109"
   },
   "devDependencies": {
